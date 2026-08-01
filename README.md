@@ -12,7 +12,7 @@ Ajloun National University, Jordan
 🔬 **Research:** Federated Learning · KAN Architectures · IoT Security · Explainable AI · LLMs for Cybersecurity
 
 📄 **55+ peer-reviewed publications** in SCI & Scopus-indexed journals  
-📋 **365+ peer reviews** across 36+ journals  
+📋 **430+ peer reviews** across 36+ journals  
 🎓 **Ph.D. in Information Technology** — AI & Cybersecurity (BAMU University, 2024)  
 🛡️ **Certifications:** CISA · eJPTv2 · CySA+ (in progress)
 
