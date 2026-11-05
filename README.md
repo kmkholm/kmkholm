@@ -15,7 +15,7 @@ Faculty of Information Technology, Ajloun National University, Jordan
 
 I work on machine learning for cybersecurity and on trustworthy AI more broadly: federated learning, Kolmogorov–Arnold networks, selective state-space (Mamba) models, explainable AI, LLMs for security, and IoT / IIoT / IoMT security. Much of the work also crosses into healthcare signals (EEG, respiratory sound, speech) and Arabic language technology.
 
-- 🎓 Ph.D. in Information Technology (AI & Cybersecurity), Dr. Babasaheb Ambedkar Marathwada University, 2024
+- 🎓 Ph.D. in Information Technology (AI & Cybersecurity), BAMU University, 2024
 - 📄 **67 peer-reviewed publications** — 51 journal articles (17 in *Scientific Reports*, 5 in *PLOS One*, 3 in IEEE journals), 10 conference papers and 6 book chapters; 33 published in 2026
 - 📋 430+ peer reviews across 36+ journals
 - 🛡️ Certifications: CISA · eJPTv2 · CySA+ (in progress)
